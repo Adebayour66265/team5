@@ -5,7 +5,9 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+a {
+  text-decoration: none;
+}
 body {
   --color-primary: #009579;
   --color-primary-dark: #007f67;
@@ -33,6 +35,7 @@ body {
   height: 100vh;
   justify-content: space-between;
 }
+
 .learnweb3 {
   color: #fefefe;
   font-family: "Lato";
